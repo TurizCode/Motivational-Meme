@@ -1,19 +1,20 @@
-h1{
-    font-family: 'Libre Baskerville', serif;
-    text-transform: uppercase;
-}
-
 html{
     background-color: black;
     color: white;
     margin: 0px;
 }
 
-img{
-    border: 5px solid white;
-}
-
 div{
     width: 50%;
     margin-left: 25%;
+}
+
+h1{
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%
 }
